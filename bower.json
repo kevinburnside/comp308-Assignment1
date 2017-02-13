@@ -1,6 +1,6 @@
 {
-  "name": "comp308-w2017-lesson4b",
-  "description": "## Welcome to Lesson 4 - Intro to MongoDB",
+  "name": "comp308-w2017-lesson3b",
+  "description": "## Welcome to Lesson 3 - Building Web Apps with Express",
   "main": "server.js",
   "authors": [
     "Tom Tsiliopoulos"
@@ -11,7 +11,7 @@
     "ExpressJS",
     "EJS"
   ],
-  "homepage": "https://github.com/CentennialCollege/COMP308-W2017-Lesson4B",
+  "homepage": "https://github.com/CentennialCollege/COMP308-W2017-Lesson3B",
   "ignore": [
     "**/.*",
     "node_modules",
