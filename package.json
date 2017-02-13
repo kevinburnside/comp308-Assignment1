@@ -1,5 +1,5 @@
 {
-  "name": "comp308-w2017-lesson3b",
+  "name": "COMP308-Assignment01",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -11,6 +11,7 @@
     "debug": "~2.2.0",
     "ejs": "~2.5.2",
     "express": "~4.14.0",
+    "mongoose": "^4.8.1",
     "morgan": "~1.7.0",
     "serve-favicon": "~2.3.0"
   },
@@ -18,12 +19,12 @@
     "node": ">=6.0.0",
     "npm": ">=3.5.0"
   },
-  "description": "## Welcome to Lesson 3 - Building Web Apps with Express",
+  "description": "",
   "main": "server.js",
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CentennialCollege/COMP308-W2017-Lesson3B.git"
+    "url": "git+https://github.com/kevinburnside/comp308-Assignment1"
   },
   "keywords": [
     "NodeJS",
@@ -33,7 +34,7 @@
   "author": "Tom Tsiliopoulos",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CentennialCollege/COMP308-W2017-Lesson3B/issues"
+    "url": "https://github.com/kevinburnside/comp308-Assignment1/issues"
   },
-  "homepage": "https://github.com/CentennialCollege/COMP308-W2017-Lesson3B#readme"
+  "homepage": "https://github.com/kevinburnside/comp308-Assignment1#readme"
 }
