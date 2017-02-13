@@ -1,8 +1,8 @@
 let express = require('express');
 let router = express.Router();
-let mongoose = require('mongoose');
+//let mongoose = require('mongoose');
 
-let game = require('../config/game');
+//let game = require('../config/game');
 
 // Global Route Variables
 let currentDate = new Date();
